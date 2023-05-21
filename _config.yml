@@ -2,8 +2,8 @@ title:              Shawn Lyu
 email:              shawnlyu.official@gmail.com
 description:        Yo
 author:             Shawn Lyu
-baseurl:            "/blog"
-url:                "https://shawnlyu.github.io/"
+baseurl:            ""
+url:                "https://shawnlyu.github.io"
 destination:        docs/
 # Social Profiles
 twitter_username:   SBootstrap
