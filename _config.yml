@@ -3,7 +3,7 @@ email:              shawnlyu.official@gmail.com
 description:        Yo
 author:             Shawn Lyu
 baseurl:            "/blog"
-url:                "https://startbootstrap.github.io"
+url:                "https://shawnlyu.github.io/"
 destination:        docs/
 # Social Profiles
 twitter_username:   SBootstrap
