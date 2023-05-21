@@ -4,7 +4,7 @@ description:        Yo
 author:             Shawn Lyu
 baseurl:            "/blog"
 url:                "https://startbootstrap.github.io"
-
+destination:        docs/
 # Social Profiles
 twitter_username:   SBootstrap
 github_username:    StartBootstrap
