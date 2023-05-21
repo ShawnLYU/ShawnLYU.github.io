@@ -1,9 +1,9 @@
 title:              Shawn Lyu
-email:              shawn_00852@hotmail.com
-description:        A Blog Theme by Start Bootstrap
+email:              shawnlyu.official@gmail.com
+description:        Yo
 author:             Shawn Lyu
-baseurl:            "/startbootstrap-clean-blog-jekyll"
-url:                "https://ShawnLYU.github.io"
+baseurl:            "/blog"
+url:                "https://startbootstrap.github.io"
 
 # Social Profiles
 twitter_username:   SBootstrap
